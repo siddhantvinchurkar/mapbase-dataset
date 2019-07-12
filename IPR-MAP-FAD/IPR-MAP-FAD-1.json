@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#37ff00",
+        "marker-size": "medium",
+        "marker-symbol": "harbor",
+         "ambassabor_name": "Anirudh",
+        "ambassabor_email": "anirudhsdutt@gmail.com",
+        "ambassabor_photo_profile": "http://gottila.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.32900857925415,
+          28.389172896830186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#3300ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.32907295227051,
+            28.389135142545673
+          ],
+          [
+            77.32965230941772,
+            28.382225882128708
+          ],
+          [
+            77.32896566390991,
+            28.382074855015105
+          ],
+          [
+            77.32349395751953,
+            28.381697286290105
+          ],
+          [
+            77.31362342834473,
+            28.381055416372458
+          ],
+          [
+            77.31306552886963,
+            28.388380054032023
+          ],
+          [
+            77.32081174850464,
+            28.388625458388866
+          ],
+          [
+            77.32885837554932,
+            28.38915401968962
+          ]
+        ]
+      }
+    }
+    
+  ]
+}
