@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#13ff00",
+        "marker-size": "medium",
+        "marker-symbol": "harbor",
+       "locality": "Cubbon Park",
+        "ambassabor_name": "Anirudh",
+        "ambassabor_email": "anirudhsdutt@gmail.com",
+        "ambassabor_photo_profile": "http://gottila.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5756746,
+          12.9324892,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.57533192634583,
+            12.936819221568992
+          ],
+          [
+            77.58005261421204,
+            12.93675648249098
+          ],
+          [
+            77.58000969886778,
+            12.930869395468692
+          ],
+          [
+            77.57621169090271,
+            12.93093213602715
+          ],
+          [
+            77.57575035095215,
+            12.931873242510983
+          ],
+          [
+            77.57566452026367,
+            12.932134660348812
+          ],
+          [
+            77.57538557052612,
+            12.934184166706332
+          ],
+          [
+            77.57520318031311,
+            12.934675627462878
+          ],
+          [
+            77.57535338401794,
+            12.935146174088501
+          ],
+          [
+            77.57542848587036,
+            12.935794481318817
+          ],
+          [
+            77.57537484169006,
+            12.936746025976447
+          ]
+        ]
+      }
+    }
+  ]
+}
